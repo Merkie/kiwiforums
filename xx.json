@@ -1,0 +1,25 @@
+{
+  "collectionId": "abdtq2s1womgbj5",
+  "collectionName": "posts",
+  "content": "asdasd",
+  "created": "2023-05-01 02:25:57.087Z",
+  "expand": {
+    "user": {
+      "avatar": "",
+      "collectionId": "_pb_users_auth_",
+      "collectionName": "users",
+      "created": "2023-05-01 01:26:25.816Z",
+      "email": "",
+      "emailVisibility": false,
+      "id": "rkvacjmtsgfsfs2",
+      "updated": "2023-05-01 01:26:25.816Z",
+      "username": "archer",
+      "verified": false,
+      "expand": {}
+    }
+  },
+  "id": "z2eazwu7zl23nf4",
+  "image": "headshot_no_septum_wLb8TjkXtQ.png",
+  "updated": "2023-05-01 02:25:57.087Z",
+  "user": "rkvacjmtsgfsfs2"
+}
